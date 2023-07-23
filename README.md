@@ -1,0 +1,1 @@
+Comprehensive-text is a text generation project based on chatGPT that aspires to create comprehensive texts incorporating all the most common words in a given language. 
